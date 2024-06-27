@@ -1,6 +1,7 @@
 ## Myntra Webapp with real time Classification
 
 ### File Structure
+```
 Myntra_WebApp_Webcam/
   │
   ├── Index.html
@@ -8,7 +9,7 @@ Myntra_WebApp_Webcam/
   ├── group.bin
   ├── model.json
   ├── classes.json
-
+```
 
   ## **index.html**<br>
 This is the html file where we have set the lamnding page and has used the webcam and our machine learning model for building the classifier app.
